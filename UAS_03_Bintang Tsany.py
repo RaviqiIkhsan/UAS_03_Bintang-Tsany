@@ -102,5 +102,5 @@ with open('hasil_deteksi_plat.txt', 'a') as file:
 cap.release()
 cv2.destroyAllWindows()
 
-# Cetak tabel hasil deteksi
+# Mencetak tabel hasil deteksi
 print(table)
